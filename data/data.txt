@@ -1,0 +1,4 @@
+HaGRID - HAnd Gesture Recognition Image Dataset
+https://github.com/hukenovs/hagrid
+
+Randomly sampled data, ~2,000 samples per class used for this project
